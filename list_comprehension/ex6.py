@@ -1,0 +1,1 @@
+# Crie uma lista com as palavras de uma string que tenham mais de 3 letras.

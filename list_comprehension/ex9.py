@@ -1,0 +1,1 @@
+# Crie uma lista de strings com os primeiros 10 nomes da lista de nomes.
